@@ -93,7 +93,8 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 ## 💫 Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f6ffe1f4-33a7-4aec-ab6d-0fbd3617bf62/deploy-status)](https://app.netlify.com/sites/friendly-sammet-f943bc/deploys)
 <!-- AUTO-GENERATED-CONTENT:END -->
 # newgatsby
 # newgatsby
+# wpgats
